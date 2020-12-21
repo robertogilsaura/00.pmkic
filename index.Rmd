@@ -1,0 +1,51 @@
+--- 
+title: "Plan de Marketing ::|:: Investigación Comercial"
+author: "Roberto Gil"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Documento generado como apuntes de la asignatura _Plan de Marketing ::|:: Investigación Comercial_ en los grados de ADE y GECOFIN de la Universidad Católica de València (San Vicente Mártir)."
+---
+
+# Presentación
+
+El marketing nos rodea. Es una disciplina de reciente incorporación al plan de estudios como tal, pero que en el mundo empresarial lleva muchos años ya de camino y aplicación. Dentro de los estudios de grado relacionados con la administración de la empresa, el marketing es una disciplina que todos los estudiantes ven con muy buenos ojos por su caracterización de modernidad, dinamismo y actualidad. 
+
+Mucha bibliografía hay respecto marketing, pero sobre todos destaca un nombre, Phillip Kotler. Este autor estadounidense, economista y especialista en marketing escribió una de las definiciones más famosas de marketing, _"el marketing es un proceso social y administrativo mediante el cual grupos e individuos obtienen lo que necesitan y desean a través de generar, ofrecer e intercambiar productos de valor con sus iguales"_ (Philip Kotler). [Dirección de Mercadotecnia, Octava Edición, de Philip Kotler, Pág. 7.]
+
+Otras definiciones son:
+
+Según Jerome McCarthy, "el marketing es la realización de aquellas actividades que tienen por objeto cumplir las metas de una organización, al anticiparse a los requerimientos del consumidor o cliente y al encauzar un flujo de mercancías aptas a las necesidades y los servicios que el productor presta al consumidor o cliente".
+
+Stanton, Etzel y Walker, proponen la siguiente definición de marketing: "El marketing es un sistema total de actividades de negocios ideado para planear productos satisfactores de necesidades, asignarles precios, promover y distribuirlos a los mercados meta, a fin de lograr los objetivos de la organización" [2].
+
+Para John A. Howard, de la Universidad de Columbia, "el marketing es el proceso de:
+1) Identificar las necesidades del consumidor, 2) conceptualizar tales necesidades en función de la capacidad de la empresa para producir, 3) comunicar dicha conceptualización a quienes tienen la capacidad de toma de decisiones en la empresa. 4) conceptualizar la producción obtenida en función de las necesidades previamente identificadas del consumidor y 5) comunicar dicha conceptualización al consumidor" [3].
+
+Según Al Ries y Jack Trout, "el término marketing significa "guerra". Ambos consultores, consideran que una empresa debe orientarse al competidor; es decir, dedicar mucho más tiempo al analisis de cada "participante" en el mercado, exponiendo una lista de debilidades y fuerzas competitivas, así como un plan de acción para explotarlas y defenderse de ellas [3].
+
+Para la American Marketing Asociation (A.M.A.), "el marketing es una función de la organización y un conjunto de procesos para crear, comunicar y entregar valor a los clientes, y para manejar las relaciones con estos últimos, de manera que beneficien a toda la organización..." [5].
+
+Buscar: [1]: Del libro: Dirección de Mercadotecnia, Octava Edición, de Philip Kotler, Pág. 7.
+[2]: Del libro: Fundamentos de marketing, 13a Edición, de Stanton, Etzel y Walker, Pág. 7.
+[3]: Del libro: La guerra de la mercadotecnia de Al Ries y Jack Trout, Págs. 4 y 5.
+[4]: Del libro: El marketing según Kotler, de Philip Kotler, Edición 1999, Pág. 58.
+[5]: Del sitio web de la American Marketing Asociation: MarketingPower.com, sección Dictionary of Marketing Terms, URL del sitio: http://www.marketingpower.com/
+[6]: Curso Práctico de Técnicas Comerciales, ediciones Nueva Lente S.A., 2do Fascículo, pág. 25.
+[7]: Del libro: Fundamentos del marketing, sexta edición, de Philip Kotler y Gary Armstrong, Pág. 21.
+
+
+Tras esta definición muchas otras han llegado. Bibliografía específica de marketing inunda todas las estanterías de bibliotecas oficiales y particulares. Basta una búsqueda en Google Books del término Marketing, y las cifras asustan. 114.000 entradas bibliográficas.
+
+Nosotros, sin embargo en esta asignatura vamos a centrar nuestro esfuerzos en una parte del Marketing, quizá la más trascendente y la que más lo caracteriza desde el punto de vista estratégico y operativo como es el Plan de Marketing. La misma búsqueda en Google Books para el término "Plan de Marketing" arroja el saldo de 9.900 entradas. No son unos indicadores de máxima fiabilidad, pero si muestran claramente la importancia de ambos.
+
+
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown', 'highcharter', 'expss'), 'packages.bib')
+```

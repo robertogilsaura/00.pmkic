@@ -1,0 +1,114 @@
+# Diseño de la investigación {#tema02}
+
+Como hemos venido indicando en los capítulos anteriores de introducción, una investigación requiere de un buen diseño metodológico y esto es algo que sólo se puede producir tras el briefing con el cliente y cuando se tienen claros los objetivos a alcanzar. Denominamos diseño de investigación al esquema o programa donde específicamente se detallan los pasos a seguir para obtener la información requerida para estructurar y/o resolver los problemas / oportunidades de investigación de mercados.
+
+Un diseño óptimo y correcto, garantiza la realización eficaz y eficiente del proyecto de investigación de mercados. Este esquema se puede estructura en diferentes etapas que confluyen al final en la presentación de la oferta de investigación a nuestro cliente:
+
+1. Definir el problema de investigación
+2. Estimar el valor de la información que será provista por la investigación
+3. Seleccionar el modo de obtención de la información
+4. Seleccionar el método de medida
+5. Seleccionar el proceso de muestreo
+6. Seleccionar la propuesta de análisis
+7. Evaluar los principios éticos de la investigación
+8. Especificar el tiempo y coste financiero de la investigación
+9. Preparar la propuesta de investigación
+
+Al definir el problema de investigación nos referimos al especificar qué información será requerida para alcanzar los objetivos propuestos en el briefing con el cliente. Este paso determinará a qué tipo de enfoque de investigación nos dirigimos: exploratorio, descriptivo o causal. El segundo paso, nos permite utilizar de forma juiciosa un criterio de evaluación coste/beneficio o valor esperado de la información a obtener estimado el mismo en función de los diferentes niveles de precisión de la misma.
+
+Determinados los objetivos y sus necesidades de información y decidido cuál va ser el enfoque y las técnicas que damos a nuestra investigación, el tercer paso se refiere al la decisión de como vamos a recoger esa información. Debemos determinar si datos secundarios, un sondeo o un experimento producirán los datos requeridos. El cuarto punto nos debe dirigir a elegir como usaremos los cuestionarios, técnicas proyectivas, observación o cualquier otra técnica de investigación para medir nuestros datos.
+
+En el quinto punto determinaremos quien y cuántos elementos responderán a nuestra demanda de información, mientras que el sexto paso determina los procesos estadísticos apropiados para analizar los datos que requerimos; en el séptimo paso, revisamos todos los aspectos de la investigación para que sean todos acorde a la ética que nos impone nuestro código deontológico. El el octavo paso y para cada elemento de investigación, desarrollamos los tiempos y los costes financieros estimados y los comparamos con el valor estimado de la información y las restricciones de tiempo impuestas por el problema a analizar.
+
+Por último, en el noveno paso desarrollamos la llamada propuesta de investigación.
+
+Tres son los enfoques típicos de investigación que dan lugar al desarrollo de los diferentes tipos de investigación: cualitativa o cuantitativa:
+
+* Investigación exploratoria
+* Investigación descriptiva
+* Investigación experimental
+
+### Investigación exploratoria
+
+Definimos un diseño de investigación exploratoria a aquel en el que lo importante es explorar o examinar un problema o situación para brindar conocimiento y comprensión. Se caracteriza porque la información necesaria se define vagamente, dado que el investigador no tiene mucho conocimiento sobre aquello que están investigando. Su objetivo es buscar respuestas. Así el proceso de investigación es flexible y no estructurado, se va adaptando sobre la marcha a las necesidades del investigador. Este tipo de investigación que se ajusta mucho a la caracterización del enfoque exploratorio, utiliza muestras muy reducidas y se basa en el análisis cualitativo, por tanto mucho más subjetivo de los datos. 
+Los métodos de investigación más habituales en este enfoque son las entrevistas con expertos, las encuestas piloto, las sesiones de grupo, las técnicas proyectivas y/o la observación cualitativa. Todas estas técnicas, arrojan unos resultados  que son tentativos, como un examen previo para tantear la cuestión, su profundidad y su alcance. En muchas ocasiones, este tipo de enfoque se usa para disponer de la información suficiente para poder continuar con un enfoque de tipo concluyente, bien descriptivo o causal. Permiten definir o formularios acciones de investigación más concretas o alternativas a las acciones inicialmente propuestas, de alguna forma consigue enfocar u orientar mejor el problema ayudando incluso en  el desarrollo de hipótesis a tetar en la investigación
+Un ejemplo de este tipo de enfoque podría ser la identificación de las causas sociales que según las personas debería preocupar a las empresas, dentro de un proyecto de potenciación de la RSC en una multinacional.
+
+### Investigación descriptiva
+
+Del mismo modo, definimos el diseño descriptivo como aquel diseño de investigación en el que lo importante es establecer pruebas de hipótesis específicas y medición / cuantificación de elementos, su objetivo específico es describir características o funciones del mercado con precisión. Se caracteriza por definir previamente los objetivos y por tener un diseño poco flexible. La información necesaria es definida con muchas claridad y extrema precisión a partir de procesos de investigación formal sistemática y muy estructurado.
+
+En este tipo de diseños se utilizan muestras grandes y representativas de la población de la cuál se extraen, utilizando el análisis de datos cuantitativo. Los resultados son concluyentes y objetivos, lo que facilita la toma de decisiones dado que hay una descripción precisa de las magnitudes que son objetivo de estudio.
+
+Ejemplos de este tipo de enfoque es el uso de datos secundarios analizados de forma cuantitativa, las encuestas ad-hoc, los observatorios, trackings, barómetros, la observación cuantitativa o también estudios de tipo panel con análisis de  cuotas de venta, notoriedad de marcas o sensibilidad de precios.
+
+Los enfoques en investigación o con enfoque descriptivo son a los más divulgados en la disciplina del marketing. Así nos encontramos con diseños obtienen de una sola vez la información de una muestra dada de elementos de la población o también denominados diseños transversales. Son lo más utilizados, pero no los que tienen un mayor volumen de negocio.
+
+Aquí englobamos tanto los diseños transversales simples, donde se extrae una sola muestra de encuestados en la población objetivo y se extrae información de la misma en una única ocasión; haciendo un símil se puede hablar de estudios que realizan “una foto de la situación” y también tenemos diseños transversales múltiples, donde hay dos o más muestras de encuestados y de cada muestra se obtiene información de una sola vez. Hay cierta bibliografía que los cataloga como longitudinales, dado que se alargan en el tiempo. Por último, los longitudinales, donde se produce una medición repetida sobre la misma muestra a lo largo del tiempo en períodos de la misma duración.
+
+### Investigación experimental
+
+Por último los enfoques experimentales son aquellos cuyo objetivo determinar relaciones causa-efecto obteniendo evidencias de las mismas. Se caracterizan porque utilizan la manipulación de variables independientes, siendo con controlados los efectos de esa manipulación por medio de las llamadas variables dependientes o de control con un carácter mediador. Se persigue determinar las relaciones de dependencia entre estas variables, cuáles de ellas son causa (independientes) y cuáles son efecto (dependientes).
+
+Los métodos de recolección utilizados están basados en las mismas técnicas que los enfoques o diseños descriptivos.
+
+### Relación entre enfoques
+
+Atendiendo a Malhotra (2008) los enfoques se relacionan entre sí. Cuando se sabe poco de aquel problema que se va a analizar, se utiliza la investigación exploratoria. Pero en muchas ocasiones, ésta suele continuarse con la investigación descriptiva o causal, una vez se haya adquirido el conocimiento necesario para precisar mejor el problema a analizar. 
+
+La decisión de comenzar con un enfoque de tipo exploratorio depende del grado de precisión con que se haya definido el problema inicial. Como ya hemos mencionado, si el problema está poco documentado o es poca la información, será inevitable es inicio.
+
+Pero también se puede dar la situación contraria, aquella en la que a partir de ciertos resultados que se obtienen de la realidad de una descripción o experimentación, se desea ampliar conocimiento o se intuye algo que no se comprende. 
+
+En estos casos, se busca profundizar en el problema y por tanto, a ese enfoque descriptivo o ese enfoque causal le seguiría una aplicación de un enfoque exploratorio. Esta situación, sin embargo es mucho más atípica que la anterior.
+
+## Fuentes de información interna y externa
+
+Ya hemos visto que el tercer paso en un buen diseño de investigación es el planteamiento de que selección de fuentes de información realizamos, y por tanto, es necesario acudir a fuentes de información para recopilar todo aquello que nos pudiera hacer falta para tener los datos necesarios con los que plantear una metodología correcta, tras la fijación de los objetivos de la investigación realizada en el briefing con el cliente.
+
+Así, nos enfrentamos a las que denominamos fuentes secundarias o datos ya existentes y generados con otra finalidad a la nuestra, bien sea específica o bien general, diferente al problema o necesidad de información que el investigador pretende abordar pero que le ayudan a enmarcar la investigación en un ámbito de conocimiento. 
+
+Nos referimos a libros y publicaciones periódicas libros, revistas profesionales, publicaciones sectoriales o a informes, fuentes estadísticas y bases de datos de organismos públicos o privados Empresas e institutos de investigación de mercados. Estas fuentes se pueden localizar en: 
+
+* MINISTERIOS 
+* ORGANISMOS DE LAS CC.AA.
+* INSTITUTO NACIONAL DE ESTADÍSTICA
+* INSTITUTO DE COMERCIO EXTERIOR
+* INSTITUTO NACIONAL DE CONSUMO
+* CÁMARAS DE COMERCIO
+* CENTROS DE DOCUMENTACIÓN PÚBLICOS Y/O PRIVADOS
+* SERVICIOS DE ESTUDIOS DE LAS ENTIDADES FINANCIERAS
+* ...
+
+No obstante, dado que en los tiempos actuales el acceso a la información se ha generalizado y facilitado tanto, es muy importante que ante el aluvión de información y datos con que nos encontraremos ante la resolución de un problema, hay que plantearse realizar una evaluación de os datos y/o informes adquiridos:
+
+* ¿Los datos ayudan a contestar las cuestiones establecidas en la definición del problema?
+* ¿Los datos son aplicables al período de interés?
+* ¿Los datos son aplicables a la población de interés?
+* ¿Otras clasificaciones de términos y variables son aplicables al proyecto actual?
+* ¿Las unidades de medida son comparables?
+* ¿Es la fuente original de los datos?
+* El coste de adquisición de datos, ¿merece la pena?
+
+## La propuesta de investigación
+
+No debemos perder de vista que el briefing nos debe conducir a la presentación de una oferta. El investigador deberá acabar por comunicar al cliente qué y cómo va abordar los objetivos que se han definido. En la práctica, las consideraciones vistas con anterioridad se interrelacionan unas con otras, y no se suceden en una secuencia ordenada; no es necesario que la composición de la lista de puntos a revisar siga el mismo orden en que éstos han surgido y se han acordado. Su función es facilitar la continua revisión _desde el principio_ para asegurarse que todos los puntos importantes se han cubierto antes del acuerdo final de la investigación. El uso efectivo de la lista debe depender de la clara definición de los objetivos del proyecto y de una completa evaluación de los datos preliminares. 
+
+No todos los elementos expuestos son relevantes para todos los tipos de proyectos de investigación; la expresión "cuando sea relevante" debe aplicarse a lo largo de toda la lista de puntos a revisar y deben ser mencionados en el documento de oferta. 
+
+No seremos capaces de completar una propuesta de investigación si no conocemos el abanico de posibilidades a nuestro alcance, por lo que será necesaria una lectura de todos los temas restantes para poder llegar a desarrollar el documento de oferta o propuesta de investigación.
+
+Aquí dejamos los apartados que conforman lo que sería el guión general de una propuesta de investigación, siguiendo las recomendaciones de la ISO 20252.
+
+1. Resumen ejecutivo
+1. Antecedentes de la investigación
+1. Definición del problema de investigación
+1. Enfoque seleccionado
+1. Diseño metodológico de la investigación e instrumentos de medición propuestos acuerdo a objetivos de 1. investigación
+1. Descripción de la propuesta de trabajo de campo y recolección de datos
+1. Descripción de la propuesta de análisis de datos
+1. Propuesta de redacción y entrega de informe
+1. Calendario y Presupuesto
+1. Apéndices
+
+***********Enlace a las propuestas de todos los años.*********
